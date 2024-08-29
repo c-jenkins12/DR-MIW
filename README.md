@@ -21,6 +21,7 @@ The .exe version of the script is contained in the IntegratedDispersionToolvXXX.
 A .prj version of this script is also available. See the appropriate mathworks documentation to setup the tool via the .prj file.
 
 **HOW TO USE**
+
 For a detailed operation and explanation of background theory and relevant approximations, please refer to the article titled "DR MIW: Dispersion Relation Magneotinductive Waveguide Design Tool" published in IEEE Antennas and Propagation Magazine. A brief explanation is contained below:
 
 On Startup, the user is provided with several available options. The image and parameter fields dynamically change depending on the selected MIW Type (axial, planar, dual-layer planar, and axial-planar), Configuration Setup (circuit model or geometric model), Slider Setup (circuit model or geometric model) and selected Loop Shape (circular or rectangular). 
